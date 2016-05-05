@@ -12,3 +12,5 @@ category_sticky_post:
   - "0"
 ---
 [gist https://gist.github.com/a24800dd3d3373b022a3930e29635692 /]
+
+Laut https://en.support.wordpress.com/gist/ sollte obige Zeile ein Code Schnippsel von GitHub anzeigen ... machts aber nicht :-(
